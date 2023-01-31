@@ -41,6 +41,8 @@ Persist events between refreshes of a page
 
 ## Deployed website 
 
+https://anthonymirandac.github.io/scheduler-challenge-7/
+
 
 
 
